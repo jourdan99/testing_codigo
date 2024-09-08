@@ -1,0 +1,2 @@
+
+def fibonacci (numero : int) -
